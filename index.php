@@ -1,4 +1,4 @@
 <?php
-header("Location: https://terrific-ice-cream.business.site/");
+header("Location: https://boosterinterior.us/nort/index.html");
 die();
 ?>
